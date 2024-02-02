@@ -5,7 +5,7 @@
     "license_name": "Llama 2",
     "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
     "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
-    "urls": ["https://huggingface.co/TheBloke/Phind-CodeLlama-34B-v2-GGUF/resolve/main/phind-codellama-34b-v2.Q8_0.gguf"]
+    "urls": ["https://huggingface.co/TheBloke/Phind-CodeLlama-34B-v2-GGUF/resolve/main/phind-codellama-34b-v2.Q8_0.gguf"],
     "sha256": "18411d40a9dfcf9a15ddc2161f984fba52f6b61aedb66c127dc7bbcf9f148b08"
   },
   {
